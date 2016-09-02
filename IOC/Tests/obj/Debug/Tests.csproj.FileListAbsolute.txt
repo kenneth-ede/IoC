@@ -1,0 +1,8 @@
+C:\Sandbox\IOC\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Sandbox\IOC\Tests\bin\Debug\Tests.dll
+C:\Sandbox\IOC\Tests\bin\Debug\Tests.pdb
+C:\Sandbox\IOC\Tests\bin\Debug\IOC.exe
+C:\Sandbox\IOC\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sandbox\IOC\Tests\bin\Debug\IOC.pdb
+C:\Sandbox\IOC\Tests\obj\Debug\Tests.dll
+C:\Sandbox\IOC\Tests\obj\Debug\Tests.pdb

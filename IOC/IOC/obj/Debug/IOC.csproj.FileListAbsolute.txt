@@ -1,0 +1,6 @@
+C:\Sandbox\IOC\IOC\bin\Debug\IOC.exe.config
+C:\Sandbox\IOC\IOC\bin\Debug\IOC.exe
+C:\Sandbox\IOC\IOC\bin\Debug\IOC.pdb
+C:\Sandbox\IOC\IOC\obj\Debug\IOC.csprojResolveAssemblyReference.cache
+C:\Sandbox\IOC\IOC\obj\Debug\IOC.exe
+C:\Sandbox\IOC\IOC\obj\Debug\IOC.pdb
